@@ -1,4 +1,4 @@
-# VRP-problem-PTNK
+# CVRP-problem-PTNK
 
 - Link drive file docx : https://docs.google.com/document/d/1R7ZTzVqIhlZY9EkJKL0gx21Zxp4iupuY/edit?usp=sharing&ouid=117309440176911598711&rtpof=true&sd=true hoặc [tải ở trong repo](./CVRP_4thuatToan.docx)
 
